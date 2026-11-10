@@ -1,6 +1,6 @@
 # EV Battery Failure Predictor (Streamlit app)
 
-Web app for the best model from **ML Mini Project **: an **SVM (RBF kernel)** inside a scikit-learn pipeline
+Web app for the best model from **ML Mini Project**: an **SVM (RBF kernel)** inside a scikit-learn pipeline
 (imputation + scaling + one-hot encoding), trained on 16,000 vehicles and tested on 4,000.
 
 
@@ -10,7 +10,7 @@ Web app for the best model from **ML Mini Project **: an **SVM (RBF kernel)** in
 | File | What it is |
 |---|---|
 | `app.py` | The Streamlit app |
-| `ev_battery_model.joblib` | Saved pipeline + defaults + test metrics (created by the last step of the Phase 2 notebook) |
+| `ev_battery_model.joblib` | Saved pipeline + defaults + test metrics  |
 | `sample_vehicles.csv` | 30 test-set vehicles (with the actual outcome) to try the batch feature |
 | `requirements.txt` | Libraries needed (scikit-learn version must match the one that saved the model) |
 
