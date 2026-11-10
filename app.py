@@ -1,4 +1,4 @@
-"""EV Battery Failure Predictor - Streamlit app for the ML Mini Project (Phase 2 best model).
+"""EV Battery Failure Predictor - Streamlit app for the ML Mini Project .
 
 Run locally:   streamlit run app.py
 """
